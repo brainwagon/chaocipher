@@ -5,9 +5,9 @@ This is an implementation of Byrne's "chaocipher".
 I believe that I learned of this cipher from [this page](https://ciphermysteries.com/2010/07/03/the-chaocipher-revealed)
 and then spent a few sleepless nights working on an implementation and some basic cryptanalysis of it.
 
-There is this cool Youtube animation that demonstrates how it works.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BPI3P-ikWCk?si=f0GLWaXaYi4AcHKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+There is this cool [Youtube animation that demonstrates how it works](https://www.youtube.com/embed/BPI3P-ikWCk?si=f0GLWaXaYi4AcHKs).
+
 
 Moshe Rubin published a [Clearing House for information on the Chaocipher](http://chaocipher.com/), and had some links to work that 
 I did on my blog back then.  It was haphazard and I never reached a good conclusion, other than the Exhibit 1 appeared
