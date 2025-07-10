@@ -28,4 +28,4 @@ I'll try to dig through my old disks and post related code here.
 
 ## Usage
 
-'''python3 chaocipher.py -d cipher.txt'''
+    python3 chaocipher.py -d cipher.txt
